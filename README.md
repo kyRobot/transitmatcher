@@ -1,6 +1,6 @@
 # LP Takehome
 
-Takehome challenge foofr a simplified / toy transit network trip matching exercise
+Takehome challenge for a simplified / toy transit network trip matching exercise
 
 ## How to Run
 
@@ -27,5 +27,6 @@ Takehome challenge foofr a simplified / toy transit network trip matching exerci
 
 ## Data
 
-- input data is read from `taps.csv` relative to the project root
-- output data is written to `trips.csv` relative to the project root
+- input data is read from `taps.csv` relative to the project root, an example taps.csv is provided in the read location
+- output data is written to `trips.csv` relative to the project root, an example trips.csv is provided in the write location
+- output gripe: the header row isn't generated / is missing
